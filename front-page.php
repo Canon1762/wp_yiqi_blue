@@ -52,7 +52,7 @@ get_header();
 				<div class="productl_u"><img src="<?php bloginfo('template_url'); ?>/assets/img/lx_bg.jpg" alt="查看更多+" /></div>
 			</div>
 			<div class="productr">
-				<div class="productr_t"><span>易企传媒</span> 一家专为中小型企业电子商务网络营销全案服务商。</div>
+				<div class="productr_t"><span>******</span> 一家专为中小型企业电子商务网络营销全案服务商。</div>
 				<ul class="list-none">
 				<?php 
 					$product_query = new WP_Query(
@@ -90,7 +90,7 @@ get_header();
 			<div class="about">
 				<div class="about_u">
 					<div class="about_u_l">
-						<div class="about_u_l_tit">樟树市易企传媒有限公司</div>
+						<div class="about_u_l_tit">********有限公司</div>
 						<div class="about_u_l_txt">
 							<p><?php echo get_option('about'); ?></p>
 							<div class="about_link"><a href="<?php bloginfo('url'); ?>/about" title="公司简介">公司简介</a></div>
@@ -231,9 +231,9 @@ get_header();
 				</div>
 				<div class="newsr_u">
 					<ul class="list-none">
-						<li class="li00">公司地址：江西省樟树市电商基地</li>
-						<li class="li01">电话：0795-7779152</li>
-						<li class="li02">联系人：徐经理</li>
+						<li class="li00">公司地址：************</li>
+						<li class="li01">电话：***********</li>
+						<li class="li02">联系人：****</li>
 					</ul>
 					<iframe frameborder="0" height="269" marginheight="0" marginwidth="0" scrolling="no" src="<?php bloginfo('template_url'); ?>/assets/index-map.html" width="264"></iframe>
 				</div>
