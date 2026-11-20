@@ -40,7 +40,7 @@
 						<span class="sep"> | </span>
 						<?php
 						/* translators: 1: Theme name, 2: Theme author. */
-						printf( esc_html__( '网站建设: %1$s %2$s' ), '', '<a href="https://www.zhangshushi.cn/">樟树市易企传媒</a>' );
+						printf( esc_html__( '网站建设: %1$s %2$s' ), '', '<a href="#">****</a>' );
 						?>
 					</div><!-- .site-info -->
 				</div>
